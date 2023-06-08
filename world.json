@@ -1,0 +1,17 @@
+{
+  "title": "サーイが勝利した日",
+  "id": "thay-won",
+  "system": "dnd5e",
+  "coreVersion": "10.291",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10"
+  },
+  "systemVersion": "2.1.5",
+  "packs": [ ],
+  "description": "<p>「サーイが勝利した日」はレベル5のキャラクター用のショートシナリオ（冒険）です。プレイヤー人数は最低でも1名から、最大で6名までを想定しています。</p><p>舞台は映画ダンジョンズ＆ドラゴンズ「アウトロー達の誇り」で親しまれている「ネヴァーウィンター」です。</p><p>もしエドガンたちがソフィーナを倒すことができなければ、というIFストーリーを楽しみながら進めてみてください。</p>",
+  "background": "worlds/thay-won/%E3%82%AB%E3%83%90%E3%83%BC.jpg",
+  "url": "https://github.com/BrotherSharper/thay-won/",
+  "download": "https://github.com/BrotherSharper/thay-won/archive/master.zip",
+  "manifest": "https://raw.githubusercontent.com/BrotherSharper/thay-won/master/world.json"
+}
