@@ -8,23 +8,24 @@
 
 ワールドタブより「ワールドインストール」を開いて、以下のリンクを入れてください。
 
-* リンク： https://raw.githubusercontent.com/BrotherSharper/stormwreck-set/master/world.json
+* リンク： https://raw.githubusercontent.com/BrotherSharper/thay-won/master/world.json
 
 ### 内容
-「竜たちの島ストームレック」を遊ぶためのマップ、無料の範囲のクリーチャーデータとアイテム、作者の好みでNPCたちの画像等をいれたものです。
-Modをいくつか依存関係として指定してあるので「とりあえずこれだけありゃ大丈夫っしょ」というModたちを選出しました。
+「サーイが勝利した日」を遊ぶためのマップ、モンスターデータ、サンプルキャラ、アイテムが入っています。
+https://brother-sharp.booth.pm/items/4837116
 
 * コマは自分でキャラクター一覧からドラッグ＆ドロップして配置してください。敵のHPなどは自動的にロールされ、個体差が出るようになってます。
-* 竜の安らぎのNPCたちはルナラを除きどうせ戦わないのでデータは入れてないです。
-* FVTTのサンプルキャラは入れてますので、自分でストームレックのキャラを再現するか、その背景をサンプルキャラに適用してください。
+* FVTTのサンプルキャラは入れてますので、適切な権限設定をお願いします。
 * BGMおよびほぼすべての主要な攻撃の効果音が入ってます。効果音がなるには必ずALT+クリックでターゲットを取った状態で攻撃などを行う必要があります。
 
-### 同封Mod
+### 必須Mod（全部入れてください）
+スターターセットのものと同じですので、そちらがインストール済みであればDfreds Convenient Effects以外はこのステップを飛ばしてもOKです。
 * Automated Animations：攻撃や特徴を使うとアニメーションを表示するためのモッド。スターターセットのキャラクターとモンスターのいくつかの特徴にはそのまま反応するはずです。反応するにはAltキー＋クリックでターゲットしている必要があります。
 * Action HUD：キャラが行えるアクションなどをショートカットバー風に表示してくれます。
 * Babele：日本語化に必要なもの。
 * Combat Booster：ターンマーカーや前に使った攻撃や特徴をコマを右クリックすると下に表示してくれる便利なやつ。
 * Combat-enhancements：戦闘タブでHPを見えやすくしたり、ドラッグ＆ドロップで順番を入れ替えられるようにしてくれます。
+* Dfreds Convenient Effects： 激怒などの効果を制御するためのモッドです。
 * Dice So Nice：3Dダイス。等倍になってるので、テンポを早くしたい場合は設定から3倍速等にしてください。
 * Dice Tray：チャットの下にクリックするだけでダイスをロールするためのパネルをおいてくれます。+ - ボタンで修正値も入れることができます。即席のロールでご利用ください。
 * Dynamic effects Using Active Effects：自動化に必要なもの。
@@ -44,26 +45,21 @@ Modをいくつか依存関係として指定してあるので「とりあえ�
 * Token Mold：マップに敵のコマを置いた時はランダムな名前をつけてくれる。敵のHPをロールしてくれる。ネームドは除外。
 * 日本語化Modも各種入ってます。
 
-#### 注意
-この中にはスターターセットを遊ぶために、無料の範囲でかき集められるマップ、データをおいたものです。シナリオは一切貼ってないので、遊ぶには実際の商品を購入する必要があります。
-
-いくつかの敵データはこちらから開示できないので、空のキャラシを自分で記入してみてください。FVTT初心者はここでFVTTに慣れるチャンスです。
-
-#### Modが邪魔な場合
-インストールするときにお勧めModを一緒に入れるには「依存関係」として登録する必要があります。この場合、要らないものをオフにできなくなります。worlds/stormwreck-set/world.jsonを開いて、requiresの中身を消してください。
-
 ### 不具合？
-オンセ工房サーバまたはツイッターのDMでご連絡ください。テストはしたつもりですが、他人の環境ではどう動くかはまだ不明瞭なことが多いです。
+オンセ工房サーバまたはツイッター( https://twitter.com/Brother_Sharp )のDMでご連絡ください。テストはしたつもりですが、他人の環境ではどう動くかはまだ不明瞭なことが多いです。
 
 ### クレジット
-マップ：
-* https://www.reddit.com/r/battlemaps/comments/wrm4i1/dragons_of_stormwreck_isle_maps/
-* https://www.reddit.com/r/DnD/comments/fk8vqv/oc_art_a_beach_battlemap_i_drew_as_my_players/
+ [Inkarnate](https://inkarnate.com)
+ 
+ [Tom Cartos](https://www.patreon.com/tomcartos)
+ 
+  [Clark Company](https://clark.booth.pm/)
+  
+[Violet Wear](https://muraja.booth.pm/)
 
-立ち絵：
-niji journey（AI生成）
-
-音声：
+  [羽山晃平](https://nekoemonn.booth.pm/)
+  
+[qut](https://lud.sakura.ne.jp/info.shtml)
 
 不協和世界
 https://www.discoseum.com/user-policy
