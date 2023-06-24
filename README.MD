@@ -12,7 +12,8 @@
 
 ワールドタブより「ワールドインストール」を開いて、以下のリンクを入れてください。
 
-* リンク： https://raw.githubusercontent.com/BrotherSharper/thay-won/master/world.json
+* v10： https://github.com/BrotherSharper/thay-won/releases/download/1.6/world.json
+* v11： 調整中
 
 ### 内容
 「サーイが勝利した日」を遊ぶためのマップ、モンスターデータ、サンプルキャラ、アイテムが入っています。
