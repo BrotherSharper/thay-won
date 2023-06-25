@@ -1,7 +1,7 @@
 # D&D5版用 シナリオ「サーイが勝利した日」
 
-* **製作者**: Brother Sharp (ディスコード：Brother Sharp#6921)
-* **対応dnd5eバージョン**: 2.1.5
+* **製作者**: 炯遊えいり/Brother Sharp (ディスコード：Brother Sharp#6921)
+* **対応dnd5eバージョン**: 2.2.1
 
 ### 重要な更新履歴
 
@@ -14,7 +14,7 @@
 ワールドタブより「ワールドインストール」を開いて、以下のリンクを入れてください。
 
 * v10： https://github.com/BrotherSharper/thay-won/releases/download/1.6/world.json
-* v11： 調整中
+* v11： https://github.com/BrotherSharper/thay-won/releases/download/1.7/world.json
 
 ### 内容
 「サーイが勝利した日」を遊ぶためのマップ、モンスターデータ、サンプルキャラ、アイテムが入っています。
